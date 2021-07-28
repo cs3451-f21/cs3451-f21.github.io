@@ -2,23 +2,18 @@ main:
 - title: Instructors
   url: /instructors/
   excerpt: Instructors and TAs
-  image: /assets/images/shark-table-360x240.png 
 - title: Syllabus
   url: /syllabus/
   excerpt: Details you need to know
-  image: /assets/images/keep-calm-its-in-the-syllabus.png
 - title: Schedule
   url: /schedule/
   excerpt: Schedule for the class
-  image: /assets/images/schedule-teaser-360x240.png
+- title: Readings
+  url: /readings/
+  excerpt: Required readings from the texts
 - title: Resources
   url: /resources/
   excerpt: Resources for the class
-  image: /assets/images/Octocat.png
-- title: Github
-  url: https://github.com/cs3451-f21/cs3451-f21.github.io/
-  excerpt: Source code repository for the site
-  image: /assets/images/Octocat.png
 
 side:
   - title: Instructors and TAs
@@ -28,8 +23,12 @@ side:
     children:
       - title: Canvas
         url: https://gatech.instructure.com/courses/196990
-      - title: Readings
-        url: /readings/
+      - title: Teams
+        url: https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083
+      - title: Github
+        url: https://github.com/cs3451-f21/cs3451-f21.github.io/
+        excerpt: Source code repository for the site
+        image: /assets/images/Octocat.png
   - title: Site Links
     children:
       - title: All Posts

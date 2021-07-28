@@ -36,7 +36,7 @@ There are several things you can do to increase your chances of success in this 
 
 # Course Lectures
 
-The lecture material for the course will be delivered synchronously in-person. The instructor plans to stream and record the lectures on Teams, classroom/network technology permitting.  We are doing this so students who cannot attend class can access the lectures; the recordings will also be useful for studying or reviewing concepts discussed in lecture.  We do not guarantee that each lecture will be recorded (this is a synchronous class, and technology may not cooperate), but we will do our best.
+The lecture material for the course will be delivered synchronously in-person. The instructor plans to stream and record the lectures on [Teams](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083), classroom/network technology permitting.  We are doing this so students who cannot attend class can access the lectures; the recordings will also be useful for studying or reviewing concepts discussed in lecture.  We do not guarantee that each lecture will be recorded (this is a synchronous class, and technology may not cooperate), but we will do our best.
 
 It is important that you keep up with the lectures, since you will need to know these materials both for the programming projects and the exams. The instructor will not be able to monitor Teams chat for questions while teaching, although TAs (or even other students) might notice and relay questions.
 
