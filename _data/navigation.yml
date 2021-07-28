@@ -1,0 +1,41 @@
+main:
+- title: Instructors
+  url: /instructors/
+  excerpt: Instructors and TAs
+  image: /assets/images/shark-table-360x240.png 
+- title: Syllabus
+  url: /syllabus/
+  excerpt: Details you need to know
+  image: /assets/images/keep-calm-its-in-the-syllabus.png
+- title: Schedule
+  url: /schedule/
+  excerpt: Schedule for the class
+  image: /assets/images/schedule-teaser-360x240.png
+- title: Resources
+  url: /resources/
+  excerpt: Resources for the class
+  image: /assets/images/Octocat.png
+- title: Github
+  url: https://github.com/cs3451-f21/cs3451-f21.github.io/
+  excerpt: Source code repository for the site
+  image: /assets/images/Octocat.png
+
+side:
+  - title: Instructors and TAs
+    url: /instructors/
+  - title: Resources
+    url: /resources/
+    children:
+      - title: Canvas
+        url: https://gatech.instructure.com/courses/196990
+      - title: Readings
+        url: /readings/
+  - title: Site Links
+    children:
+      - title: All Posts
+        url: /posts/
+      - title: Announcements
+        url: /categories/#announcements
+      - title: Assignments
+        url: /categories/#assignmnets
+  - 
