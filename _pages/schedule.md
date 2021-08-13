@@ -18,9 +18,9 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 
 |Week|Date|Topic|Readings|Assignments|Notes|
 |:--:|---:|:-----|:----|:----|
-|1|Aug 24|Introduction to Class| **ch 1** | |  |
-| | 26| Typescript, VS Code, Github, and Node, oh my | |  | |
-|2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  |  | |
+|1|Aug 24|Introduction to Class| **ch 1** | A0: Warmup (out) |  |
+| | 26| Typescript, VS Code, Github, and Node, oh my | | | |
+|2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | |
 | | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  |  |
 |3|Sept 7| Projection, Viewing | **View&Project** | | |
 | |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| | _instructor Jury Duty_ |
