@@ -36,11 +36,12 @@ There are several things you can do to increase your chances of success in this 
 
 # Course Lectures
 
-The lecture material for the course will be delivered synchronously in-person. The instructor plans to stream and record the lectures on [Teams](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083), classroom/network technology permitting.  We are doing this so students who cannot attend class can access the lectures; the recordings will also be useful for studying or reviewing concepts discussed in lecture.  We do not guarantee that each lecture will be recorded (this is a synchronous class, and technology may not cooperate), but we will do our best.
+The lecture material for the course will be delivered synchronously in-person. The instructor plans to stream and record the lectures on [Teams](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083), classroom/network technology permitting.  We are doing this so students who cannot attend class can access the lectures; the recordings will also be useful for studying or reviewing concepts discussed in lecture.  We will do our best to stream and record each lecture, hopefully there will not be any technology issues in the classroom. (If a lecture isn't streamed or recorded, the professor will record (and porbably stream) it again after class.)
 
 It is important that you keep up with the lectures, since you will need to know these materials both for the programming projects and the exams. The instructor will not be able to monitor Teams chat for questions while teaching, although TAs (or even other students) might notice and relay questions.
 
-*Do not share the recordings outside the class*. The recordings will be unedited and may contain student questions or discussion, and GT policy forbids sharing such recordings beyond the class.
+*Do not share the recordings outside the class*. The standard Georgia Tech rules for class recordings apply: recordings of class lectures are only for the student’s personal use in study and preparation related to the class. The student may not share these recordings with any other person. The student acknowledges that the recordings are sources, the use of which in any academic work is governed by rules of academic conduct at Georgia Tech, in addition to federal copyright laws.
+
 
 # Programming Projects
 
@@ -50,7 +51,7 @@ Computer graphics is learned best by programming. Each student will complete fou
 
 We intend to have regular quizzes, hopefully as many as 1 per week. The quizzes are intended to reinforce the material covered in the readings and lectures, and will be administered on Canvas. We will drop the two lowest quiz grades at the end of the semester.
 
-There will be two exams (midterm and final), equally waited, each covering half the semester material.  The final will only cover the material after the midterm.
+We intend to have two exams (midterm and final), equally waited, each covering half the semester material.  The final will only cover the material after the midterm.  These may change to an online format, or multiple smaller exams, depending on how the semester (and pandemic) progresses.  You will be given advance notice if these exam plans change.
 
 # Collaboration and Web Resources
 
