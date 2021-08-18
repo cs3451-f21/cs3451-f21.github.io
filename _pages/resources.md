@@ -12,7 +12,7 @@ We will use Github Classroom to distribute and collect assignments. The github s
 
 Canvas will be used for announcements, posting grades, or for sharing other private content.  Most content will be shared here on github.
 
-[Teams](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083) will be used for questions and discussion. The Teams site likely won't be set up during the first week of class (since it has to be done manually). 
+[Teams](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083) will be used for questions and discussion. The Teams site is not created automatically.  (We have added many students already, and will continue to do so, but if you do not have access, there should be a way to request access when you click the link to visit the Team.)
 
 ## Technology Resources
 
