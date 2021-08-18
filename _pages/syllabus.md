@@ -21,7 +21,7 @@ There are several things you can do to increase your chances of success in this 
 # Required Textbook
 1. *Fundamentals of Computer Graphics*, by Steve Marshner and Peter Shirley. Fourth Edition is [available (for free) to Georgia Tech students, log in with your @gatech.edu email](https://learning.oreilly.com/library/view/fundamentals-of-computer/9781482229417/), on O'Reilly Safari.
 
-2. Other resources, such as the *TypeScript Documentation*, Version 3.5, [free, available online](http://www.typescriptlang.org/docs/home.html)), listed on the [reading list](readings) page.
+2. Other resources, such as the *TypeScript Documentation*, Version 3.5, [free, available online](http://www.typescriptlang.org/docs/home.html)), listed on the [reading list](/readings) page.
 
 
 # Grading
@@ -44,7 +44,7 @@ Georgia Tech is open, with in-person classes and events. To make the fall safe f
 
 To support students who cannot (or would prefer not to) attend class, we plan to stream and record the lectures on our [class Teams site](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083). We will do our best to stream and record each lecture, hopefully there will not be any technology issues in the classroom. (In the event a lecture isn't streamed or recorded, the professor will record it again after class.)
 
-*If attendance is required for a meeting period, we will give advanced notice and reminder via Canvas announcements, and mark the lecture as required on the [schedule](schedule).*
+*If attendance is required for a meeting period, we will give advanced notice and reminder via Canvas announcements, and mark the lecture as required on the [schedule](/schedule).*
 
 For those that choose to attend class, the recordings will also be useful for studying or reviewing concepts discussed in lecture.  
 
