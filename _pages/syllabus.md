@@ -36,11 +36,21 @@ There are several things you can do to increase your chances of success in this 
 
 # Course Lectures
 
-The lecture material for the course will be delivered synchronously in-person. The instructor plans to stream and record the lectures on [Teams](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083), classroom/network technology permitting.  We are doing this so students who cannot attend class can access the lectures; the recordings will also be useful for studying or reviewing concepts discussed in lecture.  We will do our best to stream and record each lecture, hopefully there will not be any technology issues in the classroom. (If a lecture isn't streamed or recorded, the professor will record (and porbably stream) it again after class.)
+The lecture material for the course will be delivered synchronously in-person. It is important that you keep up with the lectures, since you will need to know these materials both for the programming projects and the exams. 
 
-It is important that you keep up with the lectures, since you will need to know these materials both for the programming projects and the exams. The instructor will not be able to monitor Teams chat for questions while teaching, although TAs (or even other students) might notice and relay questions.
+### COVID Accommodations
 
-*Do not share the recordings outside the class*. The standard Georgia Tech rules for class recordings apply: recordings of class lectures are only for the student’s personal use in study and preparation related to the class. The student may not share these recordings with any other person. The student acknowledges that the recordings are sources, the use of which in any academic work is governed by rules of academic conduct at Georgia Tech, in addition to federal copyright laws.
+Georgia Tech is open, with in-person classes and events. To make the fall safe for everyone, we strongly encourage students to get vaccinated. We also encourage students to be regularly tested for COVID and wear masks indoors, whether they are vaccinated or not. The risk of spreading or catching COVID is higher for larger gatherings in indoor spaces. (See the [COVID-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/) for a data-driven estimate by location of the risk for different sized events for vaccinated and unvaccinated individuals.)
+
+To support students who cannot (or would prefer not to) attend class, we plan to stream and record the lectures on our [class Teams site](https://teams.microsoft.com/l/team/19%3avTZRlThKBw-t2Se3RLXY0BYLWJi-qKmrUA460cQmlyY1%40thread.tacv2/conversations?groupId=9744a91e-039d-4938-9a34-3caab74609c7&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083). We will do our best to stream and record each lecture, hopefully there will not be any technology issues in the classroom. (In the event a lecture isn't streamed or recorded, the professor will record it again after class.)
+
+*If attendance is required for a meeting period, we will give advanced notice and reminder via Canvas announcements, and mark the lecture as required on the [schedule](schedule).*
+
+For those that choose to attend class, the recordings will also be useful for studying or reviewing concepts discussed in lecture.  
+
+The instructor will not be able to monitor Teams chat for questions while teaching, although TAs (or even other students) are encouraged to relay questions.
+
+**Do not share the recordings outside the class**. The standard Georgia Tech rules for class recordings apply: recordings of class lectures are only for the student’s personal use in study and preparation related to the class. The student may not share these recordings with any other person. The student acknowledges that the recordings are sources, the use of which in any academic work is governed by rules of academic conduct at Georgia Tech, in addition to federal copyright laws.
 
 
 # Programming Projects
