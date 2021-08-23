@@ -14,7 +14,5 @@ Office Hours:
 - by request
 
 ## TAs
-
-- Evan Goode (egoode6@gatech.edu)
   
-Office Hours and locations for TAs are posted on the front page of Canvas.
+Office Hours and locations for TAs are posted on [this page on Canvas](https://gatech.instructure.com/courses/196990/pages/ta-office-hours).
