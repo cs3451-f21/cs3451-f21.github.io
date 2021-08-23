@@ -14,9 +14,9 @@ Course topics include: output devices, line drawing, polygon scan conversion, 2D
 
 There are several things you can do to increase your chances of success in this class:
 
-1) Keep up with watching the lectures (don't fall behind!)
-2) Start on the programming projects early
-3) Seek the help of the Instructor and TA's when you run into project difficulties
+1. Keep up with watching the lectures (don't fall behind!)
+2. Start on the programming projects early
+3. Seek the help of the Instructor and TA's when you run into project difficulties
 
 # Required Textbook
 1. *Fundamentals of Computer Graphics*, by Steve Marshner and Peter Shirley. Fourth Edition is [available (for free) to Georgia Tech students, log in with your @gatech.edu email](https://learning.oreilly.com/library/view/fundamentals-of-computer/9781482229417/), on O'Reilly Safari.
