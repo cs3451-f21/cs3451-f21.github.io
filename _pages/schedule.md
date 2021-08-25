@@ -23,30 +23,30 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | |
 | | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  |  |
 |3|Sept 7| Projection, Viewing | **View&Project** | | |
-| |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| | _instructor Jury Duty_ |
+| |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Fri 11:59pm* | _instructor Jury Duty_ |
 |4|Sept 14| Line and Triangle Drawing  |**Lines**|  | |
-| | 16| Hidden surfaces |**Hidden Surfaces**| | |
+| | 16| Hidden surfaces |**Hidden Surfaces**| *A1b in Fri 11:59pm* | |
 |5|Sept 21| Color | **Color** | | |
 | | 23| Radiometry | | | |
 |6|Sept 28| Surface Shading | | | |
-| | 23| Surface Shading, Intro Ray Tracing |**Ray Tracing** | |
-|7|Oct 5|  Ray Tracing |**Ray Tracing** | |
-| |  7| Reflection, Ray Tracing Acceleration | | |
-|8|Oct 12| _Fall Break_ | | | |
-| | 14| Distribution Ray Tracing | | |
-|9|Oct 19| **Midterm** | |  | |
-| | 26| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping**| | |
-|10|Oct 28| 23| Texture, Bump, Environment Maps | | | |
-| | 24| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | | **Drop Deadline (Oct 30)**|
+| | 30| Surface Shading, Intro Ray Tracing |**Ray Tracing** | *A2a in Fri 11:59pm* |
+|7|Oct 5|  Animation| | |
+| |  7| Ray Tracing |**Ray Tracing**| |
+|8|Oct 12| _Fall Break_ | | *A2b in Wed 11:59pm*| |
+| | 14| Reflection, Ray Tracing Acceleration |  | |
+|9|Oct 19| **Midterm** | | | |
+| | 21| Distribution Ray Tracing | | | |
+|10|Oct 26| 23| Texture, Bump, Environment Maps | | | |
+| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | *A3a in Fri 11:59pm* | **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | | | ** Election Day**|
-| |4| Bezier Curves | **Curves** | | | 
-|12|Nov 9| Bezier Curves | **Curves** | | |
-| | 11| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
-|13|Nov 16| Animation | | | |
+| |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | | 
+|12|Nov 9| Bezier Curves | **Curves** | *A3b in Wed 11:59pm* | |
+| | 11| Bezier Curves | **Curves** | | |
+|13|Nov 16| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
 | | 18| Interaction and picking, More Scene Graphs, UI Software, Performance| | | |
-|14|Nov 23| Augmented and Virtual Reality | | | |
+|14|Nov 23| Augmented and Virtual Reality | | *A4 in Tue 11:59pm* | |
 | | 25| **Thanksgiving** | | | |
 |15|Nov 30| Advanced Rendering Topic | | | |
 | |Dec 2| Advanced Rendering Topics | | | |
-|16|Dec 7| Review, Q & A | | _Final Instruction Days_|
+|16|Dec 7| Review, Q & A | *A5 in Tue 11:59pm* | _Final Instruction Days_|
 |17|Dec 13| **FINAL EXAM** |11:20 - 2:10 | |
