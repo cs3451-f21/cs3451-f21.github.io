@@ -15,4 +15,4 @@ Office Hours:
 
 ## TAs
   
-Office Hours and locations for TAs are posted on [this page on Canvas](https://gatech.instructure.com/courses/196990/pages/ta-office-hours).
+Office Hours and locations for TAs are posted on [this page on Canvas](https://gatech.instructure.com/courses/196990/pages/office-hours).
