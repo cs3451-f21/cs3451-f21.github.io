@@ -48,5 +48,5 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 25| **Thanksgiving** | | | |
 |15|Nov 30| Advanced Rendering Topic | | | |
 | |Dec 2| Advanced Rendering Topics | | | |
-|16|Dec 7| Review, Q & A | *A5 in Tue 11:59pm* | _Final Instruction Days_|
+|16|Dec 7| Review, Q & A ||*A5 in Tue 11:59pm* <br> _Final Instruction Days_|
 |17|Dec 13| **FINAL EXAM** |11:20 - 2:10 | |
