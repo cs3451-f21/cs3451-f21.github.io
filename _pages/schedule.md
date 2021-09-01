@@ -20,7 +20,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |:--:|---:|:-----|:----|:----|
 |1|Aug 24|Introduction to Class| **ch 1** | A0: Warmup (out) | ([slides pdf](/assets/1-intro.pdf)) |
 | | 26| Typescript, VS Code, Github, and Node, oh my | | |([slides pdf](/assets/2-dev-tools.pdf)) |
-|2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | (slides [pdf](/assets/3-transformations.pdf), [annotated](/assets/3-transformations-annotated.pdf) (|
+|2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | (slides [pdf](/assets/3-transformations.pdf), [annotated](/assets/3-transformations-annotated.pdf))|
 | | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  |  |
 |3|Sept 7| Projection, Viewing | **View&Project** | | |
 | |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Fri 11:59pm* | _instructor Jury Duty_ |
