@@ -24,7 +24,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  | (slides [pdf](/assets/4-stacks-graphs-rotations.pdf), [annotated](/assets/4-stacks-graphs-rotations-annotated.pdf)) |
 |3|Sept 7| Projection, Viewing | **View&Project** | | (slides [pdf](/assets/5-viewing.pdf)), (annotated [pdf](/assets/5-viewing-annotated.pdf)) |
 | |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Sat 11th 11:59pm* | _instructor Jury Duty_ |
-|4|Sept 14| Line and Triangle Drawing  |**Lines**|  | |
+|4|Sept 14| Line and Triangle Drawing  |**Lines**|  | (slides [pdf](/assets/6-lines.pdf))|
 | | 16| Hidden surfaces |**Hidden Surfaces**| *A1b in Sat 18th 11:59pm* | |
 |5|Sept 21| Color | **Color** | | |
 | | 23| Radiometry | | | |
