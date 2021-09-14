@@ -23,9 +23,9 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | (slides [pdf](/assets/3-transformations.pdf), [annotated](/assets/3-transformations-annotated.pdf))|
 | | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  | (slides [pdf](/assets/4-stacks-graphs-rotations.pdf), [annotated](/assets/4-stacks-graphs-rotations-annotated.pdf)) |
 |3|Sept 7| Projection, Viewing | **View&Project** | | (slides [pdf](/assets/5-viewing.pdf)), (annotated [pdf](/assets/5-viewing-annotated.pdf)) |
-| |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Fri 11:59pm* | _instructor Jury Duty_ |
+| |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Sat 11th 11:59pm* | _instructor Jury Duty_ |
 |4|Sept 14| Line and Triangle Drawing  |**Lines**|  | |
-| | 16| Hidden surfaces |**Hidden Surfaces**| *A1b in Fri 11:59pm* | |
+| | 16| Hidden surfaces |**Hidden Surfaces**| *A1b in Sat 18th 11:59pm* | |
 |5|Sept 21| Color | **Color** | | |
 | | 23| Radiometry | | | |
 |6|Sept 28| Surface Shading | | | |
