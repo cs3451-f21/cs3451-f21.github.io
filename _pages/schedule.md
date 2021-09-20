@@ -17,7 +17,7 @@ Required readings are in bold. The readings are in the table on the [Reading Lis
 Any reading in parenthesis are recommended, and you should at least skim them to be familiar with them at a high level (in case you need that material to understand future chapters, or for an assignment).
 
 |Week|Date|Topic|Readings|Assignments|Notes|
-|:--:|---:|:-----|:----|:----|
+|:--:|---:|:-----|:----|:----|:----|
 |1|Aug 24|Introduction to Class| **ch 1** | A0: Warmup (out) | ([slides pdf](/assets/1-intro.pdf)) |
 | | 26| Typescript, VS Code, Github, and Node, oh my | | |([slides pdf](/assets/2-dev-tools.pdf)) |
 |2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | (slides [pdf](/assets/3-transformations.pdf), [annotated](/assets/3-transformations-annotated.pdf))|
@@ -29,19 +29,19 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |5|Sept 21| Color | **Color** | | |
 | | 23| Radiometry | | | |
 |6|Sept 28| Surface Shading | | | |
-| | 30| Surface Shading, Intro Ray Tracing |**Ray Tracing** | *A2a in Fri 11:59pm* |
-|7|Oct 5|  Animation| | |
-| |  7| Ray Tracing |**Ray Tracing**| |
-|8|Oct 12| _Fall Break_ | | *A2b in Wed 11:59pm*| |
-| | 14| Reflection, Ray Tracing Acceleration |  | |
+| | 30| Surface Shading, Intro Ray Tracing |**Ray Tracing** | *A2a in Fri 8:00am* | |
+|7|Oct 5|  Animation| | | |
+| |  7| Ray Tracing |**Ray Tracing**| | |
+|8|Oct 12| _Fall Break_ | | | |
+| | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* | |
 |9|Oct 19| **Midterm** | | | |
-| | 21| Distribution Ray Tracing | | | *Prof at AR/VR Policy Conference* |
+| | 21| Distribution Ray Tracing | | | *Prof at AR/VR Policy Conference* | 
 |10|Oct 26| 23| Texture, Bump, Environment Maps | | | |
-| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | *A3a in Fri 11:59pm* | **Drop Deadline (Oct 30)**|
+| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | *A3a in Fri 8:00am* | **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | | | ** Election Day**|
-| |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | | 
-|12|Nov 9| Bezier Curves | **Curves** | *A3b in Wed 11:59pm* | |
-| | 11| Bezier Curves | **Curves** | | |
+| |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
+|12|Nov 9| Bezier Curves | **Curves** |  | _instructor NSF panel_|
+| | 11| Bezier Curves | **Curves** | *A3b in Thursday 8:00am* | |_instructor out of town_|
 |13|Nov 16| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
 | | 18| Interaction and picking, More Scene Graphs, UI Software, Performance| | | |
 |14|Nov 23| Augmented and Virtual Reality | | *A4 in Tue 11:59pm* | |
