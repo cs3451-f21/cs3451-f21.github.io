@@ -26,7 +26,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Sat 11th 11:59pm* | _instructor Jury Duty_ |
 |4|Sept 14| Line Drawing  |**Lines**|  | (slides [pdf](/assets/6-lines.pdf)), (annotated [pdf](/assets/6-lines-annotated.pdf))|
 | | 16| Triangle Drawing and Hidden surfaces |**Hidden Surfaces**| *A1b in Sat 18th 11:59pm* | (slides [pdf](/assets/7-triangles-hidden-surfaces.pdf)), (annotated [pdf](/assets/7-triangles-hidden-surfaces-annotated.pdf))|
-|5|Sept 21| Color | **Color** | | |
+|5|Sept 21| Color | **Color** | | (slides [pdf](8-color-and-vision.pdf))|
 | | 23| Radiometry | | | |
 |6|Sept 28| Surface Shading | | | |
 | | 30| Surface Shading, Intro Ray Tracing |**Ray Tracing** | *A2a in Fri 8:00am* | |
