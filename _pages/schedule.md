@@ -27,7 +27,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |4|Sept 14| Line Drawing  |**Lines**|  | (slides [pdf](/assets/6-lines.pdf)), (annotated [pdf](/assets/6-lines-annotated.pdf))|
 | | 16| Triangle Drawing and Hidden surfaces |**Hidden Surfaces**| *A1b in Sat 18th 11:59pm* | (slides [pdf](/assets/7-triangles-hidden-surfaces.pdf)), (annotated [pdf](/assets/7-triangles-hidden-surfaces-annotated.pdf))|
 |5|Sept 21| Color | **Color** | | (slides [pdf](/assets/8-color-and-vision.pdf)), (annotated [pdf](/assets/8-color-and-vision-annotated.pdf))|
-| | 23| Radiometry | | | |
+| | 23| Radiometry | | | (slides [handwritten notes](/assets/9-radiance.pdf))|
 |6|Sept 28| Surface Shading | | | |
 | | 30| Surface Shading, Intro Ray Tracing |**Ray Tracing** | *A2a in Fri 8:00am* | |
 |7|Oct 5|  Animation| | | |
