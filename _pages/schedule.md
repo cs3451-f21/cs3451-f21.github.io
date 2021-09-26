@@ -8,7 +8,7 @@ classes: wide
 
 ## Schedule
 
-The schedule will very likely change, but it represents the current best estimate of what topics will be covered and when.  The MIDTERM will happen the 8th week (Oct 8 or 10), and is initially scheduled for the 8th.  It may moved if need be. 
+The schedule will very likely change, but it represents the current best estimate of what topics will be covered and when.  The MIDTERM will happen the OCt 19th.  It may moved if need be. 
 
 We will update it here and post announcements on canvas when things change.
 
