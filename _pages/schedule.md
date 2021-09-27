@@ -41,7 +41,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |11|Nov 2| GPU Programming | | | ** Election Day**|
 | |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
 |12|Nov 9| Bezier Curves | **Curves** |  | _instructor NSF panel_|
-| | 11| Bezier Curves | **Curves** | *A3b in Thursday 8:00am* | |_instructor out of town_|
+| | 11| Bezier Curves | **Curves** | *A3b in Thursday 8:00am* |_instructor out of town_|
 |13|Nov 16| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
 | | 18| Interaction and picking, More Scene Graphs, UI Software, Performance| | | |
 |14|Nov 23| Augmented and Virtual Reality | | *A4 in Tue 11:59pm* | |
