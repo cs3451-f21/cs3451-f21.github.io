@@ -30,13 +30,13 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 23| Radiometry | | | (slides [handwritten notes](/assets/9-radiance.pdf))|
 |6|Sept 28| Surface Shading | | | |
 | | 30| Animation | | *A2a in Fri 8:00am* | |
-|7|Oct 5| Surface Shading, Intro Ray Tracing |**Ray Tracing**| | | |
-| |  7| Ray Tracing |**Ray Tracing**| | |
+|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | | | |
+| |  7| Intro Ray Tracing |**Ray Tracing**| | |
 |8|Oct 12| _Fall Break_ | | | |
 | | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* | |
 |9|Oct 19| **Midterm** | | | |
 | | 21| Distribution Ray Tracing | | | *Prof at AR/VR Policy Conference* | 
-|10|Oct 26| 23| Texture, Bump, Environment Maps | | | |
+|10|Oct 26| 23| More Texture, Bump, Environment Maps | **Texture Mapping** | | |
 | | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | *A3a in Fri 8:00am* | **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | | | ** Election Day**|
 | |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
