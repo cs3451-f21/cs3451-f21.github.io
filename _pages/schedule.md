@@ -29,8 +29,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |5|Sept 21| Color | **Color** | | (slides [pdf](/assets/8-color-and-vision.pdf)), (annotated [pdf](/assets/8-color-and-vision-annotated.pdf))|
 | | 23| Radiometry | | | (slides [handwritten notes](/assets/9-radiance.pdf))|
 |6|Sept 28| Surface Shading |**Shading** | | (slides [pdf](/assets/10-surface-shading.pdf)), (annotated [pdf](/assets/10-surface-shading-annotated.pdf)), (short clarification [pdf](/assets/10-surface-shading-redo-annotated.pdf))|
-| | 30| Animation | | *A2a in Fri 8:00am* | |
-|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [pdf](/assets/11-surface-shading.pdf)) |
+| | 30| Animation | | *A2a in Fri 8:00am* | (slides [pdf](/assets/11-animation.pdf)) |
+|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [pdf](/assets/10-surface-shading-2.pdf)) |
 | |  7| Intro Ray Tracing |**Ray Tracing (1)**| | |
 |8|Oct 12| _Fall Break_ | | | |
 | | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* | |
