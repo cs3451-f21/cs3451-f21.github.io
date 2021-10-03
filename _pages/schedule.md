@@ -29,7 +29,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |5|Sept 21| Color | **Color** | | (slides [pdf](/assets/8-color-and-vision.pdf)), (annotated [pdf](/assets/8-color-and-vision-annotated.pdf))|
 | | 23| Radiometry | | | (slides [handwritten notes](/assets/9-radiance.pdf))|
 |6|Sept 28| Surface Shading |**Shading** | | (slides [pdf](/assets/10-surface-shading.pdf)), (annotated [pdf](/assets/10-surface-shading-annotated.pdf)), (short clarification [pdf](/assets/10-surface-shading-redo-annotated.pdf))|
-| | 30| Animation | | *A2a in Fri 8:00am* | (slides [pdf](/assets/11-animation.pdf)) |
+| | 30| Animation | | *A2a in Fri 8:00am* | (slides [pdf](/assets/11-animation.pdf)), (annotated [pdf](/assets/11-animation-annotated.pdf)) |
 |7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [pdf](/assets/10-surface-shading-2.pdf)) |
 | |  7| Intro Ray Tracing |**Ray Tracing (1)**| | |
 |8|Oct 12| _Fall Break_ | | | |
@@ -41,7 +41,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |11|Nov 2| GPU Programming | | | ** Election Day**|
 | |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
 |12|Nov 9| Bezier Curves | **Curves** |  | _instructor NSF panel_|
-| | 11| Bezier Curves | **Curves** | *A3b in Thursday 8:00am* |_instructor out of town_|
+| | 11| Bezier Curves | **Curves** | *A3b in Tuesday 8:00am* |_instructor out of town_|
 |13|Nov 16| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
 | | 18| Interaction and picking, More Scene Graphs, UI Software, Performance| | | |
 |14|Nov 23| Augmented and Virtual Reality | | *A4 in Tue 11:59pm* | |
