@@ -30,8 +30,8 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 23| Radiometry | | | (slides [handwritten notes](/assets/9-radiance.pdf))|
 |6|Sept 28| Surface Shading |**Shading** | | (slides [pdf](/assets/10-surface-shading.pdf)), (annotated [pdf](/assets/10-surface-shading-annotated.pdf)), (short clarification [pdf](/assets/10-surface-shading-redo-annotated.pdf))|
 | | 30| Animation | | *A2a in Fri 8:00am* | (slides [pdf](/assets/11-animation.pdf)), (annotated [pdf](/assets/11-animation-annotated.pdf)) |
-|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [shading pdf](/assets/10-surface-shading-2.pdf) [texture pdf](/assets/12-texture-mapping.pdf)) |
-| |  7| Intro Ray Tracing |**Ray Tracing (1)**| | |
+|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [shading pdf](/assets/10-surface-shading-2.pdf) [annotated](/assets/10-surface-shading-2-annotated.pdf) [texture pdf](/assets/12-texture-mapping.pdf) [annotated](/assets/12-texture-mapping-annotated.pdf)) |
+| |  7| Intro Ray Tracing |**Ray Tracing (1)**| | (slides [pdf](/assets/12-raytracing1.pdf)), (annotated [pdf](/assets/12-raytracing1-annotated.pdf))|
 |8|Oct 12| _Fall Break_ | | | |
 | | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* | |
 |9|Oct 19| **Midterm** | | | |
