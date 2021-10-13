@@ -31,7 +31,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |6|Sept 28| Surface Shading |**Shading** | | (slides [pdf](/assets/10-surface-shading.pdf)), (annotated [pdf](/assets/10-surface-shading-annotated.pdf)), (short clarification [pdf](/assets/10-surface-shading-redo-annotated.pdf))|
 | | 30| Animation | | *A2a in Fri 8:00am* | (slides [pdf](/assets/11-animation.pdf)), (annotated [pdf](/assets/11-animation-annotated.pdf)) |
 |7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [shading pdf](/assets/10-surface-shading-2.pdf) [annotated](/assets/10-surface-shading-2-annotated.pdf) [texture pdf](/assets/12-texture-mapping.pdf) [annotated](/assets/12-texture-mapping-annotated.pdf)) |
-| |  7| Intro Ray Tracing |**Ray Tracing (1)**| | (slides [pdf](/assets/12-raytracing1.pdf)), (annotated [pdf](/assets/12-raytracing1-annotated.pdf))|
+| |  7| Intro Ray Tracing |**Ray Tracing (1)**| | (slides [pdf](/assets/13-raytracing1.pdf)), (annotated [pdf](/assets/13-raytracing1-annotated.pdf))|
 |8|Oct 12| _Fall Break_ | | | |
 | | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* | |
 |9|Oct 19| **Midterm** | | | |
@@ -41,9 +41,9 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |11|Nov 2| GPU Programming | | | ** Election Day**|
 | |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
 |12|Nov 9| Bezier Curves | **Curves** |  | _instructor NSF panel_|
-| | 11| Bezier Curves | **Curves** | *A3b in Tuesday 8:00am* |_instructor out of town_|
-|13|Nov 16| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
-| | 18| Interaction and picking, More Scene Graphs, UI Software, Performance| | | |
+| | 11| Bezier Curves | **Curves** | *A3b in Tuesday 8:00am* | |
+|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | | |
+| | 18| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces| | |_instructor out of town_ |
 |14|Nov 23| Augmented and Virtual Reality | | *A4 in Tue 11:59pm* | |
 | | 25| **Thanksgiving** | | | |
 |15|Nov 30| Advanced Rendering Topic | | | |
