@@ -33,7 +33,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [shading pdf](/assets/10-surface-shading-2.pdf) [annotated](/assets/10-surface-shading-2-annotated.pdf) [texture pdf](/assets/12-texture-mapping.pdf) [annotated](/assets/12-texture-mapping-annotated.pdf)) |
 | |  7| Intro Ray Tracing |**Ray Tracing (1)**| | (slides [pdf](/assets/13-raytracing1.pdf)), (annotated [pdf](/assets/13-raytracing1-annotated.pdf))|
 |8|Oct 12| _Fall Break_ | | | |
-| | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* | |
+| | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* |(slides [pdf](/assets/14-raytracing2.pdf)), (annotated [pdf](/assets/14-raytracing2-annotated.pdf)) |
 |9|Oct 19| **Midterm** | | | |
 | | 21| Distribution Ray Tracing | **Ray Tracing** | | *Prof at AR/VR Policy Conference* | 
 |10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | | |
