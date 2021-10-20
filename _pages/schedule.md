@@ -37,7 +37,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |9|Oct 19| **Midterm** | | | |
 | | 21| Distribution Ray Tracing | **Ray Tracing** | | *Prof at AR/VR Policy Conference* | 
 |10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | | |
-| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | *A3a in Fri 8:00am* | **Drop Deadline (Oct 30)**|
+| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | *A3a in Fri 12pm noon* | **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | | | ** Election Day**|
 | |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
 |12|Nov 9| Bezier Curves | **Curves** |  | _instructor NSF panel_|
