@@ -39,7 +39,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | | |
 | | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | | **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | |*A3a in Tuesday 11:59pm* | ** Election Day**|
-| |4| Shadow Mapping, Texture, Texture | **Shadow Maps**, **Texture Mapping** | | |
+| |4| Shadow Mapping | **Shadow Maps** | | |
 |12|Nov 9| Bezier Curves | **Curves** | *A3b in Tuesday 11:59pm* | _instructor NSF panel_|
 | | 11| Bezier Curves | **Curves** |  | |
 |13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | | |
