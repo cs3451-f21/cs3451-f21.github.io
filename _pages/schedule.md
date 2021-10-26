@@ -36,7 +36,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* |(slides [pdf](/assets/14-raytracing2.pdf)), (annotated [pdf](/assets/14-raytracing2-annotated.pdf)) |
 |9|Oct 19| **Midterm** | | | |
 | | 21| Distribution Ray Tracing | **Ray Tracing** | | *Prof at AR/VR Policy Conference* | 
-|10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | | |
+|10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | |(slides [pdf](/assets/16-more-texture.pdf)), (annotated [pdf](/assets/16-more-texture-annotated.pdf)) |
 | | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | | **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | |*A3a in Tuesday 11:59pm* | ** Election Day**|
 | |4| Shadow Mapping | **Shadow Maps** | | |
