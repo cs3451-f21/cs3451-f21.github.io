@@ -40,9 +40,9 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | | (slides [GPU](/assets/17-gpu.pdf) [GLSL](/assets/18-glsl.pdf)) (annotated slides [GPU](/assets/17-gpu-annotated.pdf) [GLSL](/assets/18-glsl-annotated.pdf)), **Drop Deadline (Oct 30)**|
 |11|Nov 2| GPU Programming | |*A3a in Tuesday 11:59pm* |(slides [pdf](/assets/19-glsl2.pdf) [annotated](/assets/19-glsl2-annotated.pdf)),  ** Election Day**|
 | |4| Shadow Mapping | **Shadow Maps** | | |
-|12|Nov 9| Bezier Curves | **Curves** | *A3b in Tuesday 11:59pm* | _instructor NSF panel_|
-| | 11| Bezier Curves | **Curves** |  | |
-|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | | |
+|12|Nov 9| Bezier Curves | **Curves** | EDIT: change to Thursday. ~~*A3b in Tuesday 11:59pm*~~ | _instructor NSF panel_|
+| | 11| Bezier Curves | **Curves** | *A3b in Thursday 11:59pm*  | |
+|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | |(slides [pdf](/assets/20-picking-interaction.pdf)) |
 | | 18| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces| | | |
 |14|Nov 23| Augmented and Virtual Reality | | *A4 in Tue 11:59pm* | |
 | | 25| **Thanksgiving** | | | |
