@@ -42,7 +42,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | |4| Shadow Mapping | **Shadow Maps** | | |
 |12|Nov 9| Bezier Curves | **Curves** | EDIT: change to Thursday. ~~*A3b in Tuesday 11:59pm*~~ | _instructor NSF panel_|
 | | 11| Bezier Curves | **Curves** | *A3b in Thursday 11:59pm*  | |
-|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | |(slides [pdf](/assets/20-picking-interaction.pdf)) |
+|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | |(slides [pdf](/assets/20-picking-interaction.pdf)) (annotated [pdf](/assets/20-picking-interaction-annotated.pdf))|
 | | 18| *work period* | | | |
 |14|Nov 23| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
 | | 25| **Thanksgiving** | | | |
