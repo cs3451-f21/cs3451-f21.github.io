@@ -20,31 +20,31 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 |:--:|---:|:-----|:----|:----|:----|
 |1|Aug 24|Introduction to Class| **ch 1** | A0: Warmup (out) | ([slides pdf](/assets/1-intro.pdf)) |
 | | 26| Typescript, VS Code, Github, and Node, oh my | | |([slides pdf](/assets/2-dev-tools.pdf)) |
-|2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | (slides [pdf](/assets/3-transformations.pdf), [annotated](/assets/3-transformations-annotated.pdf))|
-| | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  | (slides [pdf](/assets/4-stacks-graphs-rotations.pdf), [annotated](/assets/4-stacks-graphs-rotations-annotated.pdf)) |
-|3|Sept 7| Projection, Viewing | **View&Project** | | (slides [pdf](/assets/5-viewing.pdf)), (annotated [pdf](/assets/5-viewing-annotated.pdf)) |
+|2| Aug 31| 2D & 3D Transformations, Composing Transformations | **Transformations**, (review math in Chapter 2 as needed), **Matrices**  | *A0 in Wed 11:59pm* | ([slides pdf](/assets/3-transformations.pdf), [annotated pdf](/assets/3-transformations-annotated.pdf))|
+| | Sept 2 | Arbitrary Rotations, Scene Graphs  | **Quaternions** |  | ([slides pdf](/assets/4-stacks-graphs-rotations.pdf), [annotated pdf](/assets/4-stacks-graphs-rotations-annotated.pdf)) |
+|3|Sept 7| Projection, Viewing | **View&Project** | | ([slides pdf](/assets/5-viewing.pdf), [annotated pdf](/assets/5-viewing-annotated.pdf)) |
 | |Sept 9| Output Devices (Raster displays, LCDs, etc) |**Pixels, LCD's**| *A1a in Sat 11th 11:59pm* | _instructor Jury Duty_ |
-|4|Sept 14| Line Drawing  |**Lines**|  | (slides [pdf](/assets/6-lines.pdf)), (annotated [pdf](/assets/6-lines-annotated.pdf))|
-| | 16| Triangle Drawing and Hidden surfaces |**Hidden Surfaces**| *A1b in Sat 18th 11:59pm* | (slides [pdf](/assets/7-triangles-hidden-surfaces.pdf)), (annotated [pdf](/assets/7-triangles-hidden-surfaces-annotated.pdf))|
-|5|Sept 21| Color | **Color** | | (slides [pdf](/assets/8-color-and-vision.pdf)), (annotated [pdf](/assets/8-color-and-vision-annotated.pdf))|
-| | 23| Radiometry | | | (slides [handwritten notes](/assets/9-radiance.pdf))|
-|6|Sept 28| Surface Shading |**Shading** | | (slides [pdf](/assets/10-surface-shading.pdf)), (annotated [pdf](/assets/10-surface-shading-annotated.pdf)), (short clarification [pdf](/assets/10-surface-shading-redo-annotated.pdf))|
-| | 30| Animation | | *A2a in Fri 8:00am* | (slides [pdf](/assets/11-animation.pdf)), (annotated [pdf](/assets/11-animation-annotated.pdf)) |
-|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |(slides [shading pdf](/assets/10-surface-shading-2.pdf) [annotated](/assets/10-surface-shading-2-annotated.pdf) [texture pdf](/assets/12-texture-mapping.pdf) [annotated](/assets/12-texture-mapping-annotated.pdf)) |
-| |  7| Intro Ray Tracing |**Ray Tracing (1)**| | (slides [pdf](/assets/13-raytracing1.pdf)), (annotated [pdf](/assets/13-raytracing1-annotated.pdf))|
+|4|Sept 14| Line Drawing  |**Lines**|  | ([slides pdf](/assets/6-lines.pdf), ([annotated pdf](/assets/6-lines-annotated.pdf))|
+| | 16| Triangle Drawing and Hidden surfaces |**Hidden Surfaces**| *A1b in Sat 18th 11:59pm* | ([slides pdf](/assets/7-triangles-hidden-surfaces.pdf), [annotated pdf](/assets/7-triangles-hidden-surfaces-annotated.pdf))|
+|5|Sept 21| Color | **Color** | | ([slides pdf](/assets/8-color-and-vision.pdf), [annotated pdf](/assets/8-color-and-vision-annotated.pdf))|
+| | 23| Radiometry | | | ([slides handwritten notes](/assets/9-radiance.pdf))|
+|6|Sept 28| Surface Shading |**Shading** | | ([slides pdf](/assets/10-surface-shading.pdf), [annotated pdf](/assets/10-surface-shading-annotated.pdf), [short clarification pdf](/assets/10-surface-shading-redo-annotated.pdf))|
+| | 30| Animation | | *A2a in Fri 8:00am* | ([slides pdf](/assets/11-animation.pdf), [annotated pdf](/assets/11-animation-annotated.pdf)) |
+|7|Oct 5| Surface Shading, Basic Texture Mapping | **Texture Mapping (1)** | |([slides shading pdf](/assets/10-surface-shading-2.pdf), [annotated pdf](/assets/10-surface-shading-2-annotated.pdf), [texture pdf](/assets/12-texture-mapping.pdf), [annotated texture pdf](/assets/12-texture-mapping-annotated.pdf)) |
+| |  7| Intro Ray Tracing |**Ray Tracing (1)**| | ([slides pdf](/assets/13-raytracing1.pdf), [annotated pdf](/assets/13-raytracing1-annotated.pdf))|
 |8|Oct 12| _Fall Break_ | | | |
-| | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* |(slides [pdf](/assets/14-raytracing2.pdf)), (annotated [pdf](/assets/14-raytracing2-annotated.pdf)) |
+| | 14| Reflection, Ray Tracing Acceleration |  | *A2b in Fri 8:00am* |([slides pdf](/assets/14-raytracing2.pdf), [annotated pdf](/assets/14-raytracing2-annotated.pdf)) |
 |9|Oct 19| **Midterm** | | | |
 | | 21| Distribution Ray Tracing | **Ray Tracing** | | *Prof at AR/VR Policy Conference* | 
-|10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | |(slides [pdf](/assets/16-more-texture.pdf)), (annotated [pdf](/assets/16-more-texture-annotated.pdf)) |
-| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | | (slides [GPU](/assets/17-gpu.pdf) [GLSL](/assets/18-glsl.pdf)) (annotated slides [GPU](/assets/17-gpu-annotated.pdf) [GLSL](/assets/18-glsl-annotated.pdf)), **Drop Deadline (Oct 30)**|
-|11|Nov 2| GPU Programming | |*A3a in Tuesday 11:59pm* |(slides [pdf](/assets/19-glsl2.pdf) [annotated](/assets/19-glsl2-annotated.pdf)),  ** Election Day**|
+|10|Oct 26| More Texture, Bump, Environment Maps | **Texture Mapping** | |([slides pdf](/assets/16-more-texture.pdf), [annotated pdf](/assets/16-more-texture-annotated.pdf)) |
+| | 28| Graphics Pipeline and GPU Programming |**GPU**, **Shading** | | ([GPU slides pdf](/assets/17-gpu.pdf), [GLSL slides pdf](/assets/18-glsl.pdf), [annotated GPU slides](/assets/17-gpu-annotated.pdf), [annotated GLSL slides](/assets/18-glsl-annotated.pdf)), **Drop Deadline (Oct 30)**|
+|11|Nov 2| GPU Programming | |*A3a in Tuesday 11:59pm* |([slides pdf](/assets/19-glsl2.pdf), [annotated pdf](/assets/19-glsl2-annotated.pdf)),  ** Election Day**|
 | |4| Shadow Mapping | **Shadow Maps** | | |
 |12|Nov 9| Bezier Curves | **Curves** | EDIT: change to Thursday. ~~*A3b in Tuesday 11:59pm*~~ | _instructor NSF panel_|
 | | 11| Bezier Curves | **Curves** | *A3b in Thursday 11:59pm*  | |
-|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | |(slides [pdf](/assets/20-picking-interaction.pdf)) (annotated [pdf](/assets/20-picking-interaction-annotated.pdf))|
+|13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | |([slides pdf](/assets/20-picking-interaction.pdf), [annotated pdf](/assets/20-picking-interaction-annotated.pdf))|
 | | 18| *work period* | | | |
-|14|Nov 23| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | |
+|14|Nov 23| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | ([slides pdf](/assets/21-polygonal-modeling.pdf), [Jarek's corner table slides](/assets/corners_jarek.pdf)) |
 | | 25| **Thanksgiving** | | | |
 |15|Nov 30| Augmented and Virtual Reality | |*A4 in Tue 11:59pm* | |
 | |Dec 2| Graphics for Games | | | |
