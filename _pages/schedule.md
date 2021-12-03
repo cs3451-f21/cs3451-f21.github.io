@@ -46,7 +46,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 18| *work period* | | | |
 |14|Nov 23| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | ([slides pdf](/assets/21-polygonal-modeling.pdf), [Jarek's corner table slides](/assets/corners_jarek.pdf)) |
 | | 25| **Thanksgiving** | | | |
-|15|Nov 30| Augmented and Virtual Reality | |*A4 in Tue 11:59pm* | |
-| |Dec 2| Graphics for Games | | | |
+|15|Nov 30| Augmented and Virtual Reality | |*A4 in Tue 11:59pm* | ([annotated slides pdf](/assets/22-ar-vr-annotated.pdf)) |
+| |Dec 2| _Cancelled_ | | | |
 |16|Dec 7| Q & A ||*A5 in Tue 11:59pm* <br> _Final Instruction Days_|
 |17|Dec 13| **FINAL EXAM** |11:20 - 2:10 | |
