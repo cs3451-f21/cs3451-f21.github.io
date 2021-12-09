@@ -44,7 +44,7 @@ Any reading in parenthesis are recommended, and you should at least skim them to
 | | 11| Bezier Curves | **Curves** | *A3b in Thursday 11:59pm*  | |
 |13|Nov 16| Interaction and picking, More Scene Graphs, UI Software, Performance | | |([slides pdf](/assets/20-picking-interaction.pdf), [annotated pdf](/assets/20-picking-interaction-annotated.pdf))|
 | | 18| *work period* | | | |
-|14|Nov 23| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | ([slides pdf](/assets/21-polygonal-modeling.pdf), [Jarek's corner table slides](/assets/corners_jarek.pdf)) |
+|14|Nov 23| Polygonal modeling and data structures, Triangle Meshes, Subdivision Surfaces | | | ([slides pdf](/assets/21-polygonal-modeling.pdf), [annotated slides](/assets/21-polygonal-modeling-annotated.pdf), [Jarek's corner table slides](/assets/corners_jarek.pdf)) |
 | | 25| **Thanksgiving** | | | |
 |15|Nov 30| Augmented and Virtual Reality | |*A4 in Tue 11:59pm* | ([annotated slides pdf](/assets/22-ar-vr-annotated.pdf)) |
 | |Dec 2| _Cancelled_ | | | |
